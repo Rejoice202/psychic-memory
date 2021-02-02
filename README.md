@@ -1,4 +1,4 @@
 # psychic-memory
 auto generate repository name
-test \n
+test 
 可以写中文吗
